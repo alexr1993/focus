@@ -1,0 +1,7 @@
+{
+    "cinnamon-version": ["1.8", "2.0"], 
+    "uuid": "focus@alexr", 
+    "name": "focus", 
+    "description": "Keep your desktop as organised as possible with smart window management tools", 
+    "url" : "https://github.com/alexr1993/focus"
+}
